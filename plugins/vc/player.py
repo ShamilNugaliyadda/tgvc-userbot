@@ -41,7 +41,7 @@ __starts with / (slash) or ! (exclamation mark)__
 __available to userbot account itself and its contacts__
 __starts with ! (exclamation mark)__
 
-`!skip` [n] ...  skip current or n where n >= 2
+`!skip` [ng] ...  skip current or n where n >= 2
 `!join`  join voice chat of current group
 `!leave`  leave current voice chat
 `!vc`  check which VC is joined
